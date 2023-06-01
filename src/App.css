@@ -34,9 +34,21 @@
 }
 
 .card {
+  list-style-type:none;
   padding: 2em;
+  color:black;
+  border-style: dashed;
 }
 
 .read-the-docs {
   color: #888;
+}
+
+.form1 {
+  color: black;
+}
+
+.boton {
+  background-color: blue;
+  color: white;
 }
